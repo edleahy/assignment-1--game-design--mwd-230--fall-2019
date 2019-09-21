@@ -40,5 +40,3 @@ Issue a pull request back into the original repo, the one from which your forked
 | **Are non-arrows keys ignored**                 | `2`    |
 | **Does creature change orientation when moved** | `2`    |
 | **Is key repeating ignored**                    | `2`    |
-
-
